@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 from email.header import Header
 
 acount = '1255280233@qq.com'
-password = 'xnzeqyxhrlagfeif'
+password = '***'
 receiver = '1255280233@qq.com'
 
 mailhost = 'smtp.qq.com'
